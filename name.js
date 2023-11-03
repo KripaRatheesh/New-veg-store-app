@@ -1,0 +1,2 @@
+storename="vegee";
+owner="ratheesh";
